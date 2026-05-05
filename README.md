@@ -1,1 +1,1 @@
-# I Want My Own LinkedIn App Using GoLang and ReactJS
+# I Want My Own WhatsApp App Using GoLang and ReactJS
