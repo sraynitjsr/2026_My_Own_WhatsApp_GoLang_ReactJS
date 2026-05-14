@@ -1,4 +1,4 @@
-# WhatsApp Clone - Real-time Messaging App
+# WhatsApp Clone - Real-time Messaging App - Done Fully
 **Go (Backend) + React (Frontend) | Real-time WebSocket | PostgreSQL**
 
 ## 🚀 Quick Start
